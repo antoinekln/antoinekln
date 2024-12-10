@@ -16,7 +16,7 @@ I'm **Antoine Klein**, a **Data Scientist** and **Engineer** passionate about so
 
 ### 🛠️ Technologies & Tools
 - **Programming:** Python (Pandas, TensorFlow, Scikit-learn), SQL, R, C++, Node.js.  
-- **Data Science & ML:** Predictive modeling, data pipelines, and image classification.  
+- **Data Science & ML:** Predictive modeling, and image classification.  
 - **Other tools:** Git, Linux, Docker (soon), REST APIs.  
 - **Web Development:** Vue.js, HTML, CSS.  
 
