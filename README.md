@@ -9,16 +9,16 @@ Beyond coding, I love explaining AI to non-experts. I've had the chance to be a 
 ---
 
 ### 🛠️ Technologies & Tools
-- **Programming:** Python (Pandas, Flask, TensorFlow, Scikit-learn), SQL, R, C++, Node.js.  
+- **Programming:** Python (Pandas, Flask, TensorFlow, Scikit-learn), SQL, R, C++.  
 - **Data Science & ML:** Predictive modeling, and image classification.  
 - **Other tools:** Git, Linux, Docker (soon).  
-- **Web Development:** Vue.js, HTML, CSS, Vuetify.
+- **Web Development:** Vue.js, HTML, CSS, Vuetify, Node.js.
 - **Cloud & Data Ops:** Amazon S3, OpenSearch, CIFS.
 
 ---
 
 ### 📫 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/antoine-k-ab0734235)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/antoine-kln)  
 - 🌟 [GitHub](https://github.com/antoinekln)  
 
 ---
