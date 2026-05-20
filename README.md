@@ -1,26 +1,41 @@
-## Hi there 👋
+## Hi there 👋 I'm Antoine Klein
 
-I'm **Antoine Klein**, a **data scientist and AI engineer** with one simple obsession: making technology actually useful.
-
-In my journey, I’ve worked on several AI app for the French Armed Forces, built eco-impact models at Orange, and developed custom web platforms. Whether it’s AI, data, or web tools, I care about building solutions that matter — for users, not for vanity metrics.
-
-Beyond coding, I love explaining AI to non-experts. I've had the chance to be a conference speaker in schools and businesses, making complex topics simple and concrete. For me, it's not about the hype — it’s about what AI can do for people, here and now.
+### 🎯 Data Scientist & AI Engineer | Founder & CEO at Orion
+> "Making technology actually useful. Building solutions that matter — for users, not for vanity metrics."
 
 ---
 
-### 🛠️ Technologies & Tools
-- **Programming:** Python (Pandas, Flask, TensorFlow, Scikit-learn), SQL, R, C++.  
-- **Data Science & ML:** Predictive modeling, and image classification.  
-- **Other tools:** Git, Linux, Docker (soon).  
-- **Web Development:** Vue.js, HTML, CSS, Vuetify, Node.js.
-- **Cloud & Data Ops:** Amazon S3, OpenSearch, CIFS.
+### 🌟 About Me
+* 🧠 **AI & GenAI Expert:** Ancien Officier IA pour l'État-major des Armées. Concepteur d'applications IA multimodales et agentiques sécurisées.
+* 📊 **Data Scientist:** Créateur de modèles prédictifs complexes (XGBoost, Random Forest) et d'estimation de flux (validés par l'ADEME chez Orange).
+* 💻 **Full-Stack Developer:** Co-fondateur & CEO d'Orion. Développement d'applications web/mobile modernes de A à Z.
+* 🗣️ **Speaker:** Passionné par la vulgarisation scientifique. Conférencier en écoles et entreprises pour rendre l'IA concrète et accessible.
 
 ---
 
-### 📫 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/antoine-kln)  
-- 🌟 [GitHub](https://github.com/antoinekln)  
+### 🛠️ Tech Stack
+
+*   **AI & Data Science:** Python, R, SQL, LangChain, Scikit-learn, Pandas, TensorFlow, OpenCV, Hugging Face
+*   **Web & Full-Stack:** Node.js, Vue.js, Vuetify, FastAPI, Flask, JavaScript, HTML5/CSS3
+*   **Cloud & Big Data:** Amazon S3, OpenSearch, Elasticsearch, Indexation Vectorielle, MySQL
+*   **DevOps & Tools:** Git, Linux, Bash, Docker *(loading...)*
 
 ---
 
-⚡ "The best way to predict the future is to invent it." – Let’s create something impactful!
+### 🚀 Key Projects & Impact
+*   **Orion:** Développement full-stack & intégration d'IA multimodale (API Gemini, API Mistral, datasets Open Food Facts).
+*   **État-major des Armées:** Conduite de projets IA en environnement semi-offline sécurisé et contraint.
+*   **Orange Business Services:** Modélisation de l'empreinte carbone du tourisme via l'analyse de flux massifs de données mobiles.
+
+---
+
+### 📫 Let's Connect
+
+🌐 **Website / Portfolio:** [Orion tracker](orion-tracker.com)
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/antoine-kln)  
+🐙 **GitHub:** [@antoinekln](https://github.com/antoinekln)  
+📧 **Email:** antoineklein40@gmail.com  
+
+---
+
+⚡ *"The best way to predict the future is to invent it."* – Let’s create something impactful!
