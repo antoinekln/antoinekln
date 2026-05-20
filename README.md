@@ -18,20 +18,12 @@
 *   **AI & Data Science:** Python, R, SQL, LangChain, Scikit-learn, Pandas, TensorFlow, OpenCV, Hugging Face
 *   **Web & Full-Stack:** Node.js, Vue.js, Vuetify, FastAPI, Flask, JavaScript, HTML5/CSS3
 *   **Cloud & Big Data:** Amazon S3, OpenSearch, Elasticsearch, Indexation Vectorielle, MySQL
-*   **DevOps & Tools:** Git, Linux, Bash, Docker *(loading...)*
-
----
-
-### 🚀 Key Projects & Impact
-*   **Orion:** Développement full-stack & intégration d'IA multimodale (API Gemini, API Mistral, datasets Open Food Facts).
-*   **État-major des Armées:** Conduite de projets IA en environnement semi-offline sécurisé et contraint.
-*   **Orange Business Services:** Modélisation de l'empreinte carbone du tourisme via l'analyse de flux massifs de données mobiles.
+*   **DevOps & Tools:** Git, Linux, Bash, Docker 
 
 ---
 
 ### 📫 Let's Connect
 
-🌐 **Website / Portfolio:** [Orion tracker](orion-tracker.com)
 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/antoine-kln)  
 🐙 **GitHub:** [@antoinekln](https://github.com/antoinekln)  
 📧 **Email:** antoineklein40@gmail.com  
